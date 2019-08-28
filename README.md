@@ -32,6 +32,7 @@
 |Name                     |GitHub ID             |website for a GitHub repo                                |  
 |:------------------------|:---------------------|:--------------------------------------------------------|  
 | Matthew Beckman | mdbeckman | <https://mdbeckman.github.io/> |  
+| Vydeepthi Dhulipalla | Vydeepthi | https://github.com/Vydeepthi/Stat184.git |
 
 <br>
 
