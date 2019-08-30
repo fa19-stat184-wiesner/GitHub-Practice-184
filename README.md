@@ -31,7 +31,9 @@
 
 |Name                     |GitHub ID             |website for a GitHub repo                                |  
 |:------------------------|:---------------------|:--------------------------------------------------------|  
-| Matthew Beckman | mdbeckman | <https://mdbeckman.github.io/> |  
+| Matthew Beckman | mdbeckman | <https://mdbeckman.github.io/> |
+| Zachary Vrabel | zgv5001 | <https://zgv5001.github.io/Stat184Assignment1/> |
+
 
 <br>
 
